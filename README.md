@@ -3,12 +3,13 @@ Hi there! 👋
 I'm Maarten, a seasoned software architect and C# developer with a passion for crafting elegant solutions. 💻
 
 ## About Me 🚀
-I specialize in C# development with deep expertise in .NET technologies and the cloud ☁️ bringing robust and scalable software solutions to life. While my backend skills are strong, I also love exploring the frontend landscape, particularly with modern frameworks like Astro, Next.js and React.
+I specialize in C# development with deep expertise in .NET technologies and the cloud ☁️ bringing robust and scalable software solutions to life. Next to C# I also dable in quite a lot in Go. Next to my strong backend skills, I also love exploring the frontend landscape, particularly with modern frameworks like Astro, Next.js and React.
 
 ## My Playground 🛠️
 Backend
 - Azure cloud ☁️
-- C# & .NET 
+- C# & .NET
+- Go
 - Software and solution architecture, cloud-native
 - API design and development
 - Unit Testing
