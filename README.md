@@ -14,7 +14,7 @@ Backend
 - API design and development
 - Unit Testing
 
-Frontend Exploration
+Frontend
 - React
 - Next.js
 - Astro
